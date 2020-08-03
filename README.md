@@ -26,7 +26,7 @@ The sole purpose of this tutorial is to show and explain how easily to create an
 ### 1. Configure Project
 Follow [*Anaconda Installation Video*](https://www.anaconda.com/distribution/#download-section), which shows the process for installing Anaconda. Visit [*Dlib*](http://dlib.net/python/index.html), [*PIL Website*](https://pillow.readthedocs.io/en/stable/reference/Image.html) for personal studies.
 
-Download the [*face detector_pull faces.ipynb*](https://github.com/ArupDutta/face_detector_pull_faces_from_image/blob/master/face detector_pull faces.ipynb) file from repository, upload it to your google colab and you are good to go with your Project Configuration.
+Download the [*face_detector_pull_faces.ipynb*](https://github.com/ArupDutta/face_detector_pull_faces_from_image/blob/master/face_detector_pull_faces.ipynb) file from repository, upload it to your google colab and you are good to go with your Project Configuration.
 
 At this point, here is what *object detection* folder should look like:
 
