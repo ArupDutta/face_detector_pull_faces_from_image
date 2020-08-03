@@ -24,9 +24,9 @@ The sole purpose of this tutorial is to show and explain how easily to create an
 
 ## Steps
 ### 1. Configure Project
-Follow *[Anaconda Installation Video]*(https://www.anaconda.com/distribution/#download-section), which shows the process for installing Anaconda. Visit *[Dlib]*(http://dlib.net/python/index.html), *[PIL Website]*(https://pillow.readthedocs.io/en/stable/reference/Image.html) for personal studies.
+Follow [*Anaconda Installation Video*](https://www.anaconda.com/distribution/#download-section), which shows the process for installing Anaconda. Visit [*Dlib*](http://dlib.net/python/index.html), [*PIL Website*](https://pillow.readthedocs.io/en/stable/reference/Image.html) for personal studies.
 
-Download the *[face detector_pull faces.ipynb]*(https://github.com/ArupDutta/face_detector_pull_faces_from_image/blob/master/face detector_pull faces.ipynb) file from repository, upload it to your google colab and you are good to go with your Project Configuration.
+Download the [*face detector_pull faces.ipynb*](https://github.com/ArupDutta/face_detector_pull_faces_from_image/blob/master/face detector_pull faces.ipynb) file from repository, upload it to your google colab and you are good to go with your Project Configuration.
 
 At this point, here is what *object detection* folder should look like:
 
@@ -36,15 +36,15 @@ At this point, here is what *object detection* folder should look like:
 
 ### 2. Clone Face Detection Repository from GitHub
 Once the face detector_pull faces.ipynb file is opened, execute the code block step by step carefully.
-Clone the full *[Face detection repository]*(https://github.com/ArupDutta/face_detector_pull_faces_from_image) to your current runtime from GitHub.
+Clone the full [*Face detection repository*](https://github.com/ArupDutta/face_detector_pull_faces_from_image) to your current runtime from GitHub.
 
 
 ### 3. Important Libraries and Functions
-   #### a. *[PIL]*(https://pillow.readthedocs.io/en/stable/reference/Image.html) library to loads image into PIL format
-   #### b. *[Matplotlib]*(https://matplotlib.org/) is a comprehensive library for creating static, animated, and interactive visualizations in Python
+   #### a. [*PIL*](https://pillow.readthedocs.io/en/stable/reference/Image.html) library to loads image into PIL format
+   #### b. [*Matplotlib*](https://matplotlib.org/) is a comprehensive library for creating static, animated, and interactive visualizations in Python
    #### c. OS library allows to loop through each image in the directory
-   #### d. *[numpy]*(https://numpy.org/doc/stable/user/basics.creation.html) to create an array
-   #### e. *[Dlib]*(http://dlib.net/python/index.html) imports the face detector. The face detector is made using the now classic Histogram of Oriented Gradients (HOG) feature combined with a linear classifier, an image pyramid, and sliding window detection scheme. This type of object detector is fairly general and capable of detecting many types of semi-rigid objects in addition to human faces.
+   #### d. [*numpy*](https://numpy.org/doc/stable/user/basics.creation.html) to create an array
+   #### e. [*Dlib*](http://dlib.net/python/index.html) imports the face detector. The face detector is made using the now classic Histogram of Oriented Gradients (HOG) feature combined with a linear classifier, an image pyramid, and sliding window detection scheme. This type of object detector is fairly general and capable of detecting many types of semi-rigid objects in addition to human faces.
    
    
 Happy Learning 👍 
